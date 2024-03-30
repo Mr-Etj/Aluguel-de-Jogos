@@ -1,4 +1,4 @@
-<h1 align="center"> Número Secreto </h1>
+<h1 align="center"> Aluguel de BoardGames </h1>
 
 <h2>�� Sobre</h2>
 <p>Este programa foi um teste, a funcionalidade dele é alugar jogos voce clica no botão e faz algumas interações para indicar que foi alugado, além disso há uma verificação com senha para alugar o boardgame de sua escolha.</p>
